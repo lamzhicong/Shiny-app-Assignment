@@ -1,0 +1,12 @@
+name: rsconnect
+title: rsconnect
+username: lamzhicong
+account: lamzhicong
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10907431
+bundleId: 8133683
+url: https://lamzhicong.shinyapps.io/rsconnect/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
