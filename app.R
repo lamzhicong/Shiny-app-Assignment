@@ -23,7 +23,7 @@ ui <- fluidPage(
     mainPanel(
       tabsetPanel(
         tabPanel("Claims Data", tableOutput("claims_table")),
-        tabPanel("Input Parameters", tableOutput("parameters_table")),
+        tabPanel("Input Parameters", tableOutput("params_table")),
         tabPanel("Cumulative Paid Claims", tableOutput("cumulative_table")),
         tabPanel("Cumulative Paid Claims Chart", plotOutput("cumulative_plot"))
       )
