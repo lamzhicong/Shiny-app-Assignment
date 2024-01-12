@@ -1,0 +1,12 @@
+name: Shiny-app-Assignment
+title: Shiny-app-Assignment
+username: lamzhicong
+account: lamzhicong
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10907096
+bundleId: 8133557
+url: https://lamzhicong.shinyapps.io/Shiny-app-Assignment/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
